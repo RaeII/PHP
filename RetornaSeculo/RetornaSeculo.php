@@ -11,6 +11,3 @@ function centuryFromYear($year) {
 }
 
 
-
-
-echo centuryFromYear(3);
