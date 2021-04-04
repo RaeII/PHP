@@ -1,0 +1,1 @@
+A função retorna o século determinado pelo ano recebido por parametro.
