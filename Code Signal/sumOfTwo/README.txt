@@ -1,0 +1,3 @@
+You have two integer arrays, a and b, and an integer target value v. Determine whether there is a pair of numbers, where one number is taken from a and the other from b, that can be added together to get a sum of v. Return true if such a pair exists, otherwise return false.
+
+Você tem duas matrizes de inteiros, ae b, e um valor de destino inteiro v. Determine se há um par de números, de onde um número é retirado ae o outro b, que podem ser somados para obter uma soma de v. Retorne truese tal par existir; caso contrário, retorne false.
