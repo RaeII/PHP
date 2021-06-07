@@ -1,0 +1,2 @@
+Cadastro de produto é umas das funções mais simples de uma aplicação e essencial para um usuário. Muitos produtos de tipos diferentes para entrada no estoque, são recebidos com unidades diferentes, como exemplo em uma Madeireira, onde se recebe muitos produtos com valores em metro cubico, quadrado e unitário. Sempre é preciso está convertendo esses valores para se trabalhar em uma única medida.
+Essa aplicação tende de facilitar a entrada desses produtos, utilizando apenas uma única unidade de medida, obtendo os valores de todas as unidades junto a margem de lucro.
