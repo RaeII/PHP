@@ -6,6 +6,7 @@
 
 require_once 'conexao.php';
 $conexao = novaConexao();
+$dados = null;
 
 if ($_GET["codigo"]) {
     $id= $_GET["codigo"];
@@ -102,7 +103,7 @@ if (count($_POST) > 0) {
     <input type="hidden" name='file' value='alterar'>
     <div class="form-group row">
         <div class="col-sm-10">
-            <input class="form-control" type="text" name="codigo" value=<? $_GET["codigo"] ?>>
+            <input placeholder="ID" class="form-control" type="text" name="codigo" value=<? $_GET["codigo"] ?>>
 
         </div>
         <div class="col-sm-2">
