@@ -22,7 +22,7 @@
         
     </header>
     <nav class="navegacao">
-    <a  href="index.php#">Home</a>
+    <a  href="http://localhost/ZefeSystem/index.php">Home</a>
     </nav>
     <main class="principal">
         <div class="conteudo">
