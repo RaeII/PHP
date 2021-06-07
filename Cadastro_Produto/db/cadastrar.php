@@ -5,7 +5,7 @@
 <?php
 
     require_once './calc/calc.php';
-    $dados = [];
+    $dados = null;
     $cubico = null;
     $custo = null;
     $valorCubico = null;
